@@ -7,7 +7,7 @@
  */
 import java.util.*;
 public class recursionFactorial {
-	//Method to find a a factorial
+	//Method to find a factorial
 	static int factorial (int n)
 	{
 		if (n == 0) {
